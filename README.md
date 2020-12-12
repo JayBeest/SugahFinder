@@ -18,7 +18,6 @@ This document (the README file) is a hub to give you some information about the 
 * [What are we doing?](#what-are-we-doing)
 * [Who are we?](#who-are-we)
 * [What do we need?](#what-do-we-need)
-* [How can you get involved?](#get-involved)
 * [Get in touch](#contact-us)
 
 ## What are we doing?
@@ -65,13 +64,6 @@ In other words our analysis of Venmos' dataset is rudimentary at the moment of c
 We'd love to receive your feedback, and of course and again, all input is highly apprecieated.
 
 Our primary goal is to shed light on systems that allow for and even encourage (Venmo!!) public sharing of private, possibly sensative information. Also we tried to show that using buzzwords, and invoking computer 'magic' is completely arbitrary. Labeling or grouping people based on so called data-analysis can create the image or idea of a robust and trustworthy system while that might not be the case at all.
-
-## Get involved
-
-If you think you can help in any of the areas listed above (and we bet you can) or in any of the many areas that we haven't yet thought of (and here we're *sure* you can) then please check out our [contributors' guidelines](CONTRIBUTING.md).
-
-Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
-
 
 ## Contact us
 
