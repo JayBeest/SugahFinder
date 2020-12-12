@@ -73,7 +73,7 @@ You can also hang out, ask questions and share stories in the on [![Gitter](http
 
 ## Thank you
 
-Thank you so much (Danke schön! Merci beaucoup!) for visiting the project and we do hope that you'll join our effort to joining sweet-tooths with their favorite sugah.
+Thank you so much (Dankjewel! Danke schön! Merci beaucoup!) for visiting the project and we do hope that you'll join our effort to joining sweet-tooths with their favorite sugah.
 
 [link_Arthur]: https://profile.intra.42.fr/users/abeznik
 [Link_Rutger]: https://profile.intra.42.fr/users/rcappend
