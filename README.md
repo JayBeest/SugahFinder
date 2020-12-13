@@ -36,8 +36,8 @@ So, this is a real issue..how do you get the money and the stuff, without actual
 The SugahFinder :lollipop: app will:
 
 * Get you the sugar (mom or dad) you need so badly.
-* Let you choose the specific flavour of sugar you want, maybe you're more into daily gifts, or maybe you just want that single new Lamborghini? We will find you a suitable goldmine :sparkles:.
-* All jokes aside, we show you how an algorithm that sorts and labels people as it (we) see fit, can take a philanthropist and turn them into a holy sweet mother of sugardaddies. Also be careful what data you share with the world. We can rate your sweetness before you can say "Sugar!" :cookie:
+* Let you choose the specific flavour of sugar you want, maybe you're more into daily gifts, or maybe you just want that latest Lamborghini? We will find you a suitable goldmine :sparkles:.
+* All jokes aside, we show you how an algorithm that sorts and labels people as it (we) see fit, can take a philanthropist and turn them into the holy sweet mother of sugardaddies. Also be careful what data you share with the world. We can rate your sweetness before you can say "Sugah!" :cookie:
 
 
 ## Who are we?
@@ -63,7 +63,7 @@ In other words our analysis of Venmos' dataset is rudimentary at the moment of c
 
 We'd love to receive your feedback, and of course and again, all input is highly appreciated.
 
-Our primary goal is to shed light on systems that allow for and even encourage (Venmo!!) public sharing of private, possibly sensitive information. Also we tried to show that using buzzwords, and invoking computer 'magic' is completely arbitrary. Labeling or grouping people based on so-called data-analysis can create the image or idea of a robust and trustworthy system while that might not be the case at all.
+Our primary goal is to shed light on systems that allow for and even encourage (Venmo!!) public sharing of private, possibly sensitive information. Also we tried to show that using buzzwords, and invoking computer magic is completely arbitrary. Labeling or grouping people based on so-called data-analysis can create the image or idea of a robust and trustworthy system while that might not be the case at all.
 
 ## Contact us
 
@@ -73,7 +73,7 @@ You can also hang out, ask questions and share stories in the on [![Gitter](http
 
 ## Thank you
 
-Thank you so much (Dankjewel! Danke schön! Merci beaucoup!) for visiting the project and we do hope that you'll join our effort to join sweet-tooths with their favorite sugah.
+Thank you so much (Dankjewel! Danke schön! Merci beaucoup!) for visiting the project and we do hope that you'll join our effort to join sweet-teeth with their favorite sugah.
 
 [link_Arthur]: https://profile.intra.42.fr/users/abeznik
 [Link_Rutger]: https://profile.intra.42.fr/users/rcappend
