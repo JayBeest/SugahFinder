@@ -69,7 +69,7 @@ Our primary goal is to shed light on systems that allow for and even encourage (
 
 If you want to report a problem or suggest an enhancement we'd love for you to [open an issue](../../issues) at this github repository because then we can get right on it. But you can also contact [Dick][link_Dick] or by emailing us (SugahFinder@gmail.com).
 
-You can also hang out, ask questions and share stories in the on [![Gitter](https://badges.gitter.im/GG-to-venmo/community.svg)](https://gitter.im/GG-to-venmo/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) Gitter.
+You can also hang out, ask questions and share stories in the [![Gitter](https://badges.gitter.im/GG-to-venmo/community.svg)](https://gitter.im/GG-to-venmo/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge).
 
 ## Thank you
 
